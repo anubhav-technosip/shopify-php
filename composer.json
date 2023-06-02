@@ -1,6 +1,7 @@
 {
-  "name": "shopify/shopify-php",
+  "name": "anubhavts/shopify-php",
   "description": "PHP library for the Shopify API",
+  "license": "MIT",
   "require": {
     "php": ">=5.5.9",
     "ext-curl": "*"
